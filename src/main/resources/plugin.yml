@@ -1,0 +1,23 @@
+name: ReplayPlugin
+main: com.replayplugin.ReplayPlugin
+version: 1.0
+api-version: 1.21
+author: DeinName
+description: Ein Minecraft Replay Plugin
+depend: [ProtocolLib, BedWars]
+
+commands:
+  replay:
+    description: Öffnet das Replay-Menü
+    usage: /replay
+    permission: replayplugin.use
+
+  replayadmin:
+    description: Öffnet ein Replay mit einer ID
+    usage: /replayadmin <Replay-ID>
+    permission: replayplugin.admin
+
+  replaystop:
+    description: Stoppt ein laufendes Replay
+    usage: /replaystop
+    permission: replayplugin.use

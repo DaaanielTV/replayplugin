@@ -1,0 +1,10 @@
+com\replayplugin\gui\ReplayGUI.class
+com\replayplugin\recording\ReplayRecorder$2.class
+com\replayplugin\ReplayPlugin.class
+com\replayplugin\commands\ReplayAdminCommand.class
+com\replayplugin\listeners\BedWarsListener.class
+com\replayplugin\commands\ReplayStopCommand.class
+com\replayplugin\recording\ReplayManager.class
+com\replayplugin\recording\ReplayRecorder$1.class
+com\replayplugin\commands\ReplayCommand.class
+com\replayplugin\recording\ReplayRecorder.class
