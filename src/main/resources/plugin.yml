@@ -1,8 +1,8 @@
 name: ReplayPlugin
 main: com.replayplugin.ReplayPlugin
 version: 1.0
-api-version: 1.21
-author: B1progame
+api-version: 1.21.4
+author: Daniel
 description: Ein Minecraft Replay Plugin
 depend: [ProtocolLib, BedWars]
 
