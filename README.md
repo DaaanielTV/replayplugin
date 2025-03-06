@@ -77,7 +77,7 @@ For bug reports, feature requests, or general questions, please open an issue on
 
 ## License 📄
 
-This project is licensed under the [MIT License](link-to-license).
+This project is licensed under the [MIT License](https://github.com/DaaanielTV/replayplugin/blob/main/LICENSE).
 
 ## Keywords 🔑
 
