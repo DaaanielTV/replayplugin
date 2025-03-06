@@ -20,7 +20,7 @@ A Minecraft plugin that allows players to record and replay their gameplay! Reli
 ## Installation 🛠️
 
 1.  Ensure you have [Java 23.0.1](https://www.oracle.com/java/technologies/javase-jdk23-downloads.html) installed.
-2.  Clone the repository
+2.  Clone the repository: `git clone https://github.com/DaaanielTV/replayplugin`
 3.  Navigate to the project directory: `cd ReplayPlugin`
 4.  Build the project using Maven: `mvn clean install`
 5.  The compiled `.jar` file will be located in the `target` directory.
@@ -73,7 +73,7 @@ Contributions are welcome! Please submit pull requests with detailed description
 
 ## Support ❓
 
-For bug reports, feature requests, or general questions, please open an issue on the [GitHub repository](link-to-repository).
+For bug reports, feature requests, or general questions, please open an issue on the [GitHub repository](https://github.com/DaaanielTV/replayplugin).
 
 ## License 📄
 
